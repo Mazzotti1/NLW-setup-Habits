@@ -40,7 +40,7 @@ representados por cores mais fortes ou mais fracas respectivamente.
 ## Screens do App <br>
 ![ft1](https://user-images.githubusercontent.com/70278577/213956526-9040576f-6ce6-428f-b0da-85a5e66dd9a3.png)
 ![ft2](https://user-images.githubusercontent.com/70278577/213956534-32bf9db0-543c-4c04-b1e7-4078241545fe.png)
-![mob1](https://user-images.githubusercontent.com/70278577/213956545-8da25fc8-fea2-4428-91cc-8b7854465862.png)<br><br><br>
+![mob1](https://user-images.githubusercontent.com/70278577/213956545-8da25fc8-fea2-4428-91cc-8b7854465862.png)<br>
 ![mob2](https://user-images.githubusercontent.com/70278577/213956547-f51eb59d-27f5-4ec6-add0-e3b049515b8f.png)
 ![mob4](https://user-images.githubusercontent.com/70278577/213956615-64fc1191-1914-4fb0-a2a8-237960f04bc3.png)
 
